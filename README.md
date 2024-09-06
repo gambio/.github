@@ -32,8 +32,6 @@ Egal, wer du bist, der Klimawandel betrifft uns alle. Bei unserem Cloud-Hosting 
 
 ### Gambio Shopsoftware
 
-[![Gambio Shopsoftware Logo](https://www.gambio.de/information/eigenes-hosting/img/gambio-shopsoftware-logo.png)](https://github.com/gambio)
-
 Unsere Shopsoftware für E-Commerce-Betreiber. Sie bietet eine flexible und benutzerfreundliche Plattform, um Ihre Online-Shop zu verwalten.
 
 
@@ -62,7 +60,7 @@ Wir freuen uns auf deine Kontaktaufnahme!
 * [GitHub](https://github.com/gambio/gx)
 
 [![Folge uns auf X](https://img.shields.io/twitter/follow/gambio?style=social&label=Follow)](https://x.com/gambio)
-[![Folge uns auf Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white))](https://instagram.com/gambio_shopsoftware)
+[![Folge uns auf Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gambio_shopsoftware)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gambio-gmbh)
 
 
