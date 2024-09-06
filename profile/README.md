@@ -1,4 +1,4 @@
-# <img src="https://github.com/gambio/.github/blob/main/profile/gambio-logo-square-blue-white.svg" height="100" /> Gambio - Your Partner for E-commerce Solutions
+# <img src="https://github.com/gambio/.github/blob/main/profile/gambio-logo-square-blue-white.svg" height="50" /> Gambio - Your Partner for E-commerce Solutions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png">
