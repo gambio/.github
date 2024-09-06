@@ -1,8 +1,8 @@
-**Gambio - Your Partner for E-commerce Solutions**
+# Gambio - Your Partner for E-commerce Solutions
 
 [![Gambio Logo](https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png)](https://www.gambio.de)
 
-**Welcome to the Gambio Community!**
+## Welcome to the Gambio Community!
 
 We are a team of innovative and dynamic people who work together towards one goal: supporting businesses and individuals in achieving success in e-commerce. Our mission is to provide flexible and user-friendly shop software that adapts to your needs.
 
