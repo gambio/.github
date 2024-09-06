@@ -1,6 +1,11 @@
-# Gambio - Your Partner for E-commerce Solutions
+# <img src="https://github.com/gambio/.github/blob/main/profile/gambio-logo-square-blue-white.svg" height="100" /> Gambio - Your Partner for E-commerce Solutions
 
-[![Gambio Logo](https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png)](https://www.gambio.de)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-blue.png">
+  <img alt="Gambio Logo" src="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-blue.png">
+</picture>
+
 
 ## Welcome to the Gambio Community!
 
