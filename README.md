@@ -1,6 +1,10 @@
 # Gambio - Ihr Partner für E-Commerce-Lösungen
 
-[![Gambio Logo](https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png)](https://www.gambio.de)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-blue.png">
+  <img alt="Gambio Logo" src="https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-blue.png">
+</picture>
 
 **Willkommen in der Gambio-Gemeinschaft!**
 
