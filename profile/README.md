@@ -1,6 +1,6 @@
 # Gambio - Ihr Partner für E-Commerce-Lösungen
 
-[![Gambio Logo](https://www.gambio.de/information/eigenes-hosting/img/gambio-logo.png)](https://www.gambio.de)
+[![Gambio Logo](https://github.com/gambio/.github/blob/main/profile/gambio-logo-text-trans-white.png)](https://www.gambio.de)
 
 **Willkommen in der Gambio-Gemeinschaft!**
 
