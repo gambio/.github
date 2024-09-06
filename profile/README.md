@@ -61,6 +61,7 @@ We look forward to hearing from you!
 
 * [Gambio Website](https://www.gambio.de)
 * [GitHub](https://github.com/gambio/gx)
+* [Developer Documentation](https://gambio.github.io/docs/)
 
 [![Follow us on X](https://img.shields.io/twitter/follow/gambio?style=social&label=Follow)](https://x.com/gambio)
 [![Follow us on Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gambio_shopsoftware)
