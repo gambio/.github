@@ -35,6 +35,8 @@ Regardless of who you are, climate change affects us all. Our cloud hosting allo
 
 ### Gambio Shop Software
 
+![screenshot-malibu-productinfo](https://github.com/user-attachments/assets/88f227be-0087-4a5e-a786-e62a712a264b)
+
 Our shop software for e-commerce operators. It offers a flexible and user-friendly platform to manage your online store.
 
 ### Who is the Self-Hosting of the Gambio Shop Solution suitable for?
